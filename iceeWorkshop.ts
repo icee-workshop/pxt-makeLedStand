@@ -74,7 +74,7 @@ namespace iceeWorkshop {
     //% pinLed.defl=outputLed.D1
     //% group="はじめに"
     //% weight=900
-    export function initialization(num: number, pinMode?: inputTouch, pinLed?: outputLed): void {
+    export function initialization(num: number, pinMode: inputTouch = inputTouch.D3, pinLed: outputLed = outputLed.D1): void {
         const iopinLed = (pinLed == outputLed.D0) ? pins.D0 :
             (pinLed == outputLed.D1) ? pins.D1 :
                 (pinLed == outputLed.D2) ? pins.D2 :

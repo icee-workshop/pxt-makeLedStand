@@ -19,18 +19,11 @@
   
 1. テキストをよく見てプログラミングをしてみよう！
 
-## ブロックの説明
+## プログラム例  
 
-### 基本動作
+### グラデーション表示
 
-<div style="position:relative;height:calc(300px + 5em);width:500px;height:200px;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://maker.makecode.com/---codeembed#pub:_ViLCV9UvPRfW" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
-  
-「LEDスタンドの設定」ブロックは，スイッチを押したときに切り替えるモードの数を設定できます．  
-また，ブロック後ろの「＋」を押すと実際にスイッチが接続されいるピンやLEDテープが接続されているピンを変更することもできます．  
-原則，それぞれのピンはスイッチがD3，LEDテープがD1です．これを変更すると動かなくなる場合がありますので注意してください．  
-  
-「すべての色を変える」ブロックは，LEDテープの点灯をすべて指定した色に変更します．  
-  
+
 
 
 https://site.icee.tottori-u.ac.jp/home/
