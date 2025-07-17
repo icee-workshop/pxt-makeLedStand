@@ -31,7 +31,7 @@
 
 ### 基本プログラム
 
-MakeCode Maker：[基本](https://makecode.com/_ViLCV9UvPRfW)  
+MakeCode Maker：[基本](https://makecode.com/_KPJVvLfytgkb)  
   
 このプログラムでは，LEDテープ全体が赤色に点灯します．  
 最初だけブロックは電源を入れた後に動作するブロックです．  
@@ -40,7 +40,7 @@ MakeCode Maker：[基本](https://makecode.com/_ViLCV9UvPRfW)
 
 ### グラデーション点灯
 
-MakeCode Maker：[グラデーション点灯](https://makecode.com/_X1XMUYFf9Lda)  
+MakeCode Maker：[グラデーション点灯](https://makecode.com/_JvpU360zDW4s)  
   
 このプログラムでは，スイッチにより３つのモードを切り替えることができます．  
 １つ目のモードは，LEDテープ全体が赤色に点灯します．  
@@ -49,10 +49,28 @@ MakeCode Maker：[グラデーション点灯](https://makecode.com/_X1XMUYFf9Ld
 
 ### 流れる点灯
 
-MakeCode Maker：[流れる点灯](https://makecode.com/_bd9f6YCR9bF2)  
+MakeCode Maker：[流れる点灯](https://makecode.com/_047Mp59jE6h7)  
   
 このプログラムでは，グラデーション点灯のプログラムにさらにモードを1つ追加して  
 順番にLEDが点灯する動作を追加しています．  
+
+### 点滅
+
+MakeCode Maker：[点滅](https://makecode.com/_C36cWoWthfA2)  
+  
+このプログラムでは，光の強さを設定ブロックを使って点滅する動作を作っています．  
+
+### 流れる点灯２
+
+MakeCode Maker：[流れる点灯２](https://makecode.com/_i9Y8MXFsa5pK)  
+  
+このプログラムでは，LEDの数ブロックを使って流れる点灯を作っています．  
+
+### 標準ブロックと組み合わせ
+
+MakeCode Maker：[標準ブロックと組み合わせ](https://makecode.com/_0KCWV6VFuP8x)  
+
+このプログラムでは，MakerCode Makerに標準で準備されているLED制御用ブロックと組み合わせた点灯を作っています．  
 
 ## おわりに
 
