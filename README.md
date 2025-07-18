@@ -11,7 +11,7 @@
 詳しい方法はイベントのときに配ったテキストを確認してください．ここでは，プログラミングを始めるまでのステップを紹介します．  
 
 1. 下のURLからMakeCode Makerにアクセスします．  
-    [https://maker.makecode.com/](https://maker.makecode.com/){:target="_blank"}  
+    ![https://maker.makecode.com/](https://maker.makecode.com/)  
   
 2. 「New Project」をクリックします．  
     Give your project a nameにプログラムの名前を入力してCreateをクリックします．  
@@ -31,7 +31,7 @@
 
 ### 基本プログラム
 
-MakeCode Maker：[基本](https://makecode.com/_KPJVvLfytgkb){:target="_blank"}  
+MakeCode Maker：![基本](https://makecode.com/_KPJVvLfytgkb)  
   
 このプログラムでは，LEDテープ全体が赤色に点灯します．  
 最初だけブロックは電源を入れた後に動作するブロックです．  
@@ -40,7 +40,7 @@ MakeCode Maker：[基本](https://makecode.com/_KPJVvLfytgkb){:target="_blank"}
 
 ### グラデーション点灯
 
-MakeCode Maker：[グラデーション点灯](https://makecode.com/_JvpU360zDW4s){:target="_blank"}  
+MakeCode Maker：![グラデーション点灯](https://makecode.com/_JvpU360zDW4s)  
   
 このプログラムでは，スイッチにより３つのモードを切り替えることができます．  
 １つ目のモードは，LEDテープ全体が赤色に点灯します．  
@@ -49,26 +49,26 @@ MakeCode Maker：[グラデーション点灯](https://makecode.com/_JvpU360zDW4
 
 ### 流れる点灯
 
-MakeCode Maker：[流れる点灯](https://makecode.com/_047Mp59jE6h7){:target="_blank"}  
+MakeCode Maker：![流れる点灯](https://makecode.com/_047Mp59jE6h7)  
   
 このプログラムでは，グラデーション点灯のプログラムにさらにモードを1つ追加して  
 順番にLEDが点灯する動作を追加しています．  
 
 ### 点滅
 
-MakeCode Maker：[点滅](https://makecode.com/_C36cWoWthfA2){:target="_blank"}  
+MakeCode Maker：![点滅](https://makecode.com/_C36cWoWthfA2)  
   
 このプログラムでは，光の強さを設定ブロックを使って点滅する動作を作っています．  
 
 ### 流れる点灯２
 
-MakeCode Maker：[流れる点灯２](https://makecode.com/_i9Y8MXFsa5pK){:target="_blank"}  
+MakeCode Maker：![流れる点灯２](https://makecode.com/_i9Y8MXFsa5pK)  
   
 このプログラムでは，LEDの数ブロックを使って流れる点灯を作っています．  
 
 ### 標準ブロックと組み合わせ
 
-MakeCode Maker：[標準ブロックと組み合わせ](https://makecode.com/_0KCWV6VFuP8x){:target="_blank"}  
+MakeCode Maker：![標準ブロックと組み合わせ](https://makecode.com/_0KCWV6VFuP8x)  
 
 このプログラムでは，MakerCode Makerに標準で準備されているLED制御用ブロックと組み合わせた点灯を作っています．  
 
@@ -77,7 +77,7 @@ MakeCode Maker：[標準ブロックと組み合わせ](https://makecode.com/_0K
 このプロジェクトは，鳥大ものづくり教室「LEDスタンドを作ろう！」のために作成されたものです．  
   
 鳥取大学 工学部附属 ものづくり教育実践センター  
-Web：[https://site.icee.tottori-u.ac.jp/home/](https://site.icee.tottori-u.ac.jp/home/){:target="_blank"}  
+Web：![https://site.icee.tottori-u.ac.jp/home/](https://site.icee.tottori-u.ac.jp/home/)  
 
 #### Metadata (used for search, rendering)
 
